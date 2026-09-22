@@ -23,11 +23,7 @@ RegisterNumber:  212224241039
 */
 ```
 ```java
-/*
-Program to ind the nature of resultant matrrix.
-Developed by: Rubasri R
-RegisterNumber: 212224240139
-*/
+
 import java.util.Scanner;
 
 public class MatrixAddition {
