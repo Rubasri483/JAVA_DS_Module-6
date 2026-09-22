@@ -19,11 +19,7 @@ RegisterNumber:  212224240139
 */
 ```
 ```java
-/*
-Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
-Developed by: HARSHIDA K S
-Register Number : 212224040108
-*/
+
 import java.util.*;
 
 public class Main {
